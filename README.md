@@ -102,3 +102,5 @@ select * from ml.explain_table_1;
 CALL sys.ML_MODEL_LOAD('ml.train_data_admin_1670946900', NULL);
 select * from ml.explain_table_2;
 ```
+## Oracle Analytic Cloud (OAC)
+pen https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=870 and follow instruction on Lab-4
